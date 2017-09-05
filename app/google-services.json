@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785906917245",
+    "firebase_url": "https://fir-chat-1ab2c.firebaseio.com",
+    "project_id": "fir-chat-1ab2c",
+    "storage_bucket": "fir-chat-1ab2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785906917245:android:4a2f6e82a2990eb8",
+        "android_client_info": {
+          "package_name": "piazzoli.kevin.com.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785906917245-c8d62ecm28se23o243c1qfvtjqu5nqtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjQnE3U1C0nSLqEjsHP6ViD3nlbWhal0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
